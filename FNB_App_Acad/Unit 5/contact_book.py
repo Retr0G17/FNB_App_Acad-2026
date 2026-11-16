@@ -5,9 +5,9 @@
 #Contacts dictionary list
 
 contacts = [
-    #{'name': 'Buhle', 'number': 123, 'email':'bnakupi@icloud.com'},
-    #{'name': 'Thato', 'number': 234, 'email': 'trakoti@gmail.com'},
-    #{'name': 'Qhama', 'number': 345, 'email': 'qmatyobeni@gmail.com'}
+    #{'name': 'Dave', 'number': 123, 'email':'someone@icloud.com'},
+    #{'name': 'Natasha', 'number': 234, 'email': 'somewhere@gmail.com'},
+    #{'name': 'Bucky', 'number': 345, 'email': 'something@gmail.com'}
 ]
 
 #Adding to dictionary function 
