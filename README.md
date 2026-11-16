@@ -114,4 +114,5 @@ These are things I've spotted while reviewing my own code and plan to improve:
 
 ## About
 
-I'm an IT student building my software development skills. This repo records my progress through the course.
+I'm an IT student building my software development skills. This repo records my progress through the course. 
+Yet I should add that I dropped out of the FNB App Academy when we got to the theory of business specifically when they asked us to use Notion Ai for one of the chapters.
